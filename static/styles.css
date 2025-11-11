@@ -1,0 +1,22 @@
+body{
+    background-color: #efe0c4;
+    font-family: 'Times New Roman',serif;
+    margin: 0;
+    padding: 20px;
+    color: #5d4075;
+    line-height: 1.6;
+
+}
+.container{
+    color:rgb(255, 239, 239);
+    background: rgb(85,84,84);
+    border-radius: 30px;
+    width: 70%;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    border-radius: 50%;
+}
